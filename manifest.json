@@ -1,92 +1,39 @@
 {
-  "background_color": "#127a0b",
-  "dir": "auto",
-  "display": "standalone",
   "name": "Jolearn bw",
-  "orientation": "natural",
-  "scope": "/https://jmarchand282-dot.github.io/Jolearn-/",
-  "short_name": "Jolearn bw",
-  "start_url": "/https://jmarchand282-dot.github.io/Jolearn-/",
-  "theme_color": "#d11919",
-  "id": "https://jmarchand282-dot.github.io/Jolearn-/",
+  "short_name": "JoLearn",
   "description": "Apprends l'anglais facilement avec JoLearn",
   "lang": "fr",
-  "categories": [
-    "beauty",
-    "books",
-    "books &amp;amp; reference",
-    "business",
-    "cars",
-    "dating",
-    "design",
-    "developer",
-    "developer tools",
-    "development",
-    "education",
-    "entertainment",
-    "events",
-    "fashion",
-    "finance",
-    "fitness",
-    "food",
-    "fundraising",
-    "games",
-    "government",
-    "graphics",
-    "graphics &amp;amp; design",
-    "health",
-    "health &amp;amp; fitness",
-    "kids",
-    "lifestyle",
-    "magazines",
-    "medical",
-    "multimedia",
-    "multimedia design",
-    "music",
-    "navigation",
-    "network",
-    "networking",
-    "news",
-    "parenting",
-    "personalization",
-    "pets",
-    "photo",
-    "photo &amp;amp; video",
-    "politics",
-    "productivity",
-    "reference",
-    "security",
-    "shopping",
-    "social",
-    "social networking",
-    "sports",
-    "transportation",
-    "travel",
-    "utilities",
-    "video",
-    "weather"
-  ],
+  "dir": "auto",
+  "start_url": "https://jmarchand282-dot.github.io/Jolearn-/",
+  "scope": "https://jmarchand282-dot.github.io/Jolearn-/",
+  "id": "https://jmarchand282-dot.github.io/Jolearn-/#jolearn",
+  "display": "standalone",
   "display_override": [
-    "browser",
+    "standalone",
     "minimal-ui",
-    "window-controls-overlay",
-    "fullscreen",
-    "standalone"
+    "browser"
   ],
-  "iarc_rating_id": "/https://jmarchand282-dot.github.io/Jolearn-/",
-  "prefer_related_applications": true,
-  "related_applications": [
-    {
-      "platform": "play",
-      "url": "com.josephmarchand.jolearn",
-      "id": "Jolearn "
-    }
+  "orientation": "natural",
+  "theme_color": "#d11919",
+  "background_color": "#127a0b",
+  "categories": [
+    "education"
   ],
-  "shortcuts": [
+  "icons": [
     {
-      "name": "Jolearn ",
-      "url": "https://jmarchand282-dot.github.io/Jolearn-/",
-      "description": "Apprendre l'anglais facilement avec Jolearn "
+      "src": "images/192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "images/1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
     }
   ]
 }

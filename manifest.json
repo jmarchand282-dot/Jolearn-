@@ -1,0 +1,12 @@
+{
+  "background_color": "hsv(140, 84%, 100%)",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Jolearn bw",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Jolearn bw",
+  "start_url": "/",
+  "theme_color": "#4f46e5",
+  "id": "https://jmarchand282-dot.github.io/Jolearn-/"
+}

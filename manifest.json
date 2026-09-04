@@ -1,28 +1,60 @@
 {
+  "name": "JoLearn",
   "background_color": "#ffffff",
-  "dir": "ltr",
-  "display": "standalone",
-  "name": "Jolearn bw",
-  "orientation": "natural",
-  "scope": "/https://jmarchand282-dot.github.io/Jolearn-/",
-  "short_name": "Jolearn bw",
-  "start_url": "/https://jmarchand282-dot.github.io/Jolearn-/",
-  "theme_color": "#4f46e5",
-  "id": "com.josephmarchand.jolearn",
+  "name": "JoLearn",
+  "short_name": "JoLearn",
   "description": "Apprends l'anglais facilement avec JoLearn",
   "lang": "fr",
+  "dir": "ltr",
+
+  "id": "com.josephmarchand.jolearn",
+
+  "start_url": "https://jmarchand282-dot.github.io/Jolearn-/",
+
+  "scope": "https://jmarchand282-dot.github.io/Jolearn-/",
+
+  "display": "standalone",
+  "name": "Jolearn bw",
+
+  "orientation": "natural",
+  "scope": "/https://jmarchand282-dot.github.io/Jolearn-/",
+
+  "short_name": "Jolearn bw",
+  "start_url": "/https://jmarchand282-dot.github.io/Jolearn-/",
+
+  "theme_color": "#4f46e5",
+  4f46e5",
+   "theme_color": "#4f46e5",
+  "id": "com.josephmarchand.jolearn",
+
+  "description": "Apprends l'anglais facilement avec JoLearn",
+  "background_color": "#ffffff",
+  "lang": "fr",
+
   "categories": [
+  "icons": [
     "beauty",
+    {
     "books",
+      "src": "images/launchericon-192x192.png",
     "books &amp; reference",
+      "sizes": "192x192",
     "business",
+      "type": "image/png"
     "cars",
+    },
     "dating",
+    {
     "design",
+      "src": "images/launchericon-512x512.png",
     "developer",
+      "sizes": "512x512",
     "developer tools",
+      "type": "image/png"
     "development",
+    }
     "education",
+  ]
     "entertainment",
     "events",
     "fashion",
@@ -69,4 +101,19 @@
   "share_target": {
     "method": "GET"
   }
+
+  "background_color": "#ffffff",
+
+  "icons": [
+    {
+      "src": "images/launchericon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/launchericon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }
